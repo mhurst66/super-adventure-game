@@ -33,7 +33,7 @@ section {
     padding: 5px 16px;
     border: 0;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 500;
     justify-content: center;
     align-items: center;
@@ -48,7 +48,7 @@ section {
 }
 
 #doors button {
-    height: 350px;
+    height: 375px;
     width: 225px;
     background-color: chocolate;
     border-radius: 8px;
