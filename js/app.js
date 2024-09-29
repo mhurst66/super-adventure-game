@@ -50,7 +50,7 @@ function selectOption(option) {
 const textNodes = [
   {
     id: 1,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/reception.jpg',
+    pic: './reception.jpg',
     text: `Welcome to Whitney's Woebegone Waypoint & Emporium.
 
     A shop where things are a little different around every corner!`,
