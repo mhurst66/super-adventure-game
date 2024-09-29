@@ -71,7 +71,7 @@ const textNodes = [
   },
   {
     id: 2,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/hallway.jpg',
+    pic: './hallway.jpg',
     text: `The Hallway
 
     Pushing through the door you find yourself in a wood paneled hallway.
@@ -91,7 +91,7 @@ const textNodes = [
   },
   {
     id: 3,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/greenhouse.jpg',
+    pic: './greenhouse.jpg',
     text: `The Greenhouse
 
     Entering this room you are startled by the amount of greenery and for a moment you think you have exited the shop entirely.
@@ -114,7 +114,7 @@ const textNodes = [
   },
   {
     id: 4,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/normalstore2.jpg',
+    pic: './normalstore2.jpg',
     text: `A perfectly normal shop
 
     As you pass through the door you find yourself in a perfectly normal convenience store with possibly the worst elevator music you’ve ever heard playing.
@@ -136,7 +136,7 @@ const textNodes = [
   },
   {
     id: 5,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/band.jpg',
+    pic: './band.jpg',
     text: `Green Day in the Backrooms
 
     A small club packed with people greets you. Their raucous singing drowning out the sound of the door shutting behind you. On stage you see a three piece rock band with drums bass and front man wielding a low slung guitar.
@@ -156,7 +156,7 @@ To your right you see an ultramodern door made of glass and steel`,
   },
   {
     id: 6,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `The WW Room
 
     Entering this room you find Whitney's Office. A large wooden desk sits in the center of the back wall. Amongst the papers and objects you notice a large silver key.`,
@@ -174,7 +174,7 @@ To your right you see an ultramodern door made of glass and steel`,
   },
   {
     id: 7,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/BotanicalM.jpg',
+    pic: './BotanicalM.jpg',
     text: `Botanical Menagerie
 
     As you pass along the meandering path, around and sometimes through, various plant life, you begin noticing information plaques on, you now realize, the various specimens. Moving along you find a more hallway-shaped spaced with cases along each side. Inside each case is another specimen; These, however, are strange creatures each moving about their respective cages. TigerLillies: made up of bladed leaves and stalks of the plants shaped like the animal. Hives of BeeOrchids with petals flapping, creating an eerie hum unlike that of honeybees. Flocks of Parrotflowers and DoveOrchids, and a particularly cute group of Dogcactus consisting of proud parents supervising a litter of puppypolyps.
@@ -194,7 +194,7 @@ The door seems out of place for a greenhouse, stylish and ultramodern made of gl
   },
   {
     id: 8,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/FaunaFlora.jpg',
+    pic: './FaunaFlora.jpg',
     text: `Fauna Flora
 
     Heading down the right hand path you notice the plants are wildly varied and by reading the plaques as you walk along, from a huge array of different places.
@@ -216,7 +216,7 @@ The door seems out of place for a greenhouse, stylish and ultramodern made of gl
   },
   {
     id: 9,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/Witchshop.jpg',
+    pic: './Witchshop.jpg',
     text: `The Witch Shop
 
     Heading through the cheerily painted door you step into a bright shop full of crystals, incense, and cute signs with witty sayings about “witches living here”.
@@ -235,7 +235,7 @@ To your right is a much scuffed unpainted wooden door`,
   },
   {
     id: 10,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/UltramodernOffice.jpg',
+    pic: './UltramodernOffice.jpg',
     text: `Glass and Steel Door
 
     Passing through this door you find yourself in a luxuriously high class waiting room
@@ -256,7 +256,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 11,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `Grabbing the Silver Key you turn and see two new doors have appeared in the room
     To your left is a bright blue door
     To your right is a bright red door`,
@@ -273,7 +273,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 12,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `Leaving the Silver Key you turn and see two new doors have appeared in the room
     To your left is a bright blue door
     To your right is a bright red door`,
@@ -290,7 +290,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 13,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/TrophyRoom.jpg',
+    pic: './TrophyRoom.jpg',
     text: `Through the blue door you find a room packed with display cases flashing with gold and silver objects. A large case in the middle of the room draws your eye and you can see a gold butterfly nestled in velvet. The lock looks to be perfect for a key.
     You also see another wooden door across the room from you.`,
     options: [
@@ -307,7 +307,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 14,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `Through the red door you find a room packed with filing cases and another more battered desk and behind it is Whitney in a red shirt.
     You also see another wooden door across the room from you.
     Whitney looks up at you and says "Is that my Silver Key?"`,
@@ -330,7 +330,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 15,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/TrophyRoom.jpg',
+    pic: './TrophyRoom.jpg',
     text: `Unlocking the case and grabbing the Gold Butterfly, you head to the wooden door at the other end of the room. Pushing the door open you find yourself in the parking lot for Whitney's Woebegone Waypoint and Emporium`,
     options: [
       {
@@ -342,7 +342,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 16,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/reception.jpg',
+    pic: './reception.jpg',
     text: `You head to the wooden door and pushing it open find yourself back in the front lobby of Whitney's Woebegone Waypoint and Emporium. Whitney looks up at you from behind the reception desk saying "Find everything you were looking for?`,
     options: [
       {
@@ -353,7 +353,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 17,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `"Whew thanks for finding that." Whitney says, checking something off on a piece of paper. "Well what are you waiting for I have so much work to do, I cant run errands all day."
     To your left is wooden door
     To your right is a blue painted door`,
@@ -370,7 +370,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 18,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `"Lieing to me in my own shop." Whitney says, checking something off on a piece of paper. "That's pretty low; I think I'll have to kick you out for the day."`,
     options: [
       {
@@ -381,7 +381,7 @@ To your right is a scuffed wooden door
   },
   {
     id: 19,
-    pic: '/Users/matthewhurst/code/ga/projects/Unit-1-Project/super-adventure-game/whitneyoffice.jpg',
+    pic: './whitneyoffice.jpg',
     text: `"Oh well too bad." Whitney says, checking something off on a piece of paper. "Well what are you waiting for I have so much work to do, I cant run errands all day."
     To your left is wooden door
     To your right is a blue painted door`,
