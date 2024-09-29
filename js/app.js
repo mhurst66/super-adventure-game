@@ -1,16 +1,4 @@
-/*-------------------------------- Constants --------------------------------*/
 
-
-/*---------------------------- Variables (state) ----------------------------*/
-
-
-/*------------------------ Cached Element References ------------------------*/
-
-
-/*-------------------------------- Functions --------------------------------*/
-
-
-/*----------------------------- Event Listeners -----------------------------*/
 const textElement = document.getElementById('text')
 const optionButtonsElement = document.getElementById('option-buttons')
 const containerBackground = document.querySelector('.container')
