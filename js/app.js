@@ -76,6 +76,7 @@ const textNodes = [
 
     Pushing through the door you find yourself in a wood paneled hallway.
     You are greeted with a door to your left and your right.
+
     Through the scuffed wooden door to your left you can just hear the thump of some loud music.
     The right door is quieter and has a plaque with WW printed in stylized font.`,
     options: [
@@ -177,10 +178,11 @@ To your right you see an ultramodern door made of glass and steel`,
     pic: './BotanicalM.jpg',
     text: `Botanical Menagerie
 
-    As you pass along the meandering path, around and sometimes through, various plant life, you begin noticing information plaques on, you now realize, the various specimens. Moving along you find a more hallway-shaped spaced with cases along each side. Inside each case is another specimen; These, however, are strange creatures each moving about their respective cages. TigerLillies: made up of bladed leaves and stalks of the plants shaped like the animal. Hives of BeeOrchids with petals flapping, creating an eerie hum unlike that of honeybees. Flocks of Parrotflowers and DoveOrchids, and a particularly cute group of Dogcactus consisting of proud parents supervising a litter of puppypolyps.
-Continuing along you see another sign and door.
-The sign is like the above except the left is pointing back the way you came. The right still points to Fauna Flora
-The door seems out of place for a greenhouse, stylish and ultramodern made of glass and steel`,
+    Moving out of the main greenhouse and down a small hallway with display cases. Inside are strange creatures each moving about their respective cages. TigerLillies: made up of bladed leaves and stalks of the plants shaped like the animal. Hives of BeeOrchids with petals flapping, creating an eerie hum unlike that of honeybees, and a particularly cute group of Dogcactus.
+
+Continuing along you see a door and sign.
+The door seems out of place for a greenhouse, stylish and ultramodern made of glass and steel
+The right side of the sign still points to Fauna Flora`,
     options: [
       {
         text: 'Fauna Flora',

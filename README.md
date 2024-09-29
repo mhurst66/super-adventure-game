@@ -16,3 +16,4 @@ Here is a link to the document I used to help plan the project. This is a rough 
 
 ## Future Goals
 Unfortunately, due to time constraints I was unable to figure out the code to have my doors display pictures and that would be my biggest new plan.
+Additionally, at the beginning of the project I had larger goals about creating puzzles, and other interesting features. However, to finish the MVP by the deploy date, I had to cut back.
